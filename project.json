@@ -2,8 +2,8 @@
  "name": "Vertcoin One Click Miner",
  "description": "Enter your project description",
  "author": {
-  "name": "Gert-Jaap Glasbergen",
-  "email": "gertjaap@gertjaap.org"
+  "name": "ActiveHacker",
+  "email": "hydeitconsulting@gmail.com"
  },
  "version": "0.1.0",
  "binaryname": "vertcoin-ocm",
